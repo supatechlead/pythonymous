@@ -8,7 +8,9 @@ showTableOfContents: true
 tags: ["venv"]
 ---
 
-`venv` stands for "virtual environment," and it is a built-in module in Python for creating isolated Python environments. 
+`Venv` stands for "virtual environment," and it is a built-in module in Python for creating isolated Python environments. 
+
+<!--more-->
 
 Virtual environments are useful for managing dependencies and project-specific packages, allowing you to work on different projects with potentially conflicting dependencies without affecting your system-wide Python installation.
 
