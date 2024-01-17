@@ -1,5 +1,4 @@
 baseURL = "https://pythonymous.netlify.app"
-baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 # Using theme as git submodule 
